@@ -7,7 +7,7 @@ Hi! I'm Deepika Dattatraya Naik 👋
 🤝 Currently contributing to Open Source via GirlScript Summer of Code & Code4GovTech (C4GT) DMP 2025
 
 ## 🌐 Connect with me:
-[![LinkedIn]([https://www.linkedin.com/in/deepika-dattatraya-naik/](https://www.linkedin.com/in/deepika-dattatraya-naik-416809288/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/deepika-dattatraya-naik/](https://www.linkedin.com/in/deepika-dattatraya-naik-416809288/))  
 
 
 ## 🛠️ Skills:
@@ -20,8 +20,9 @@ Interests: Embedded Systems, Digital Electronics, IoT, VLSI Design
 
 ## 🏅 Achievements:
 - 🥇 Finalist @ Google Girl Hackathon 2025  
-- 🚀 Campus Ambassador @ Postman, GSSoC, GirlScript  
-- 🌟 Active Contributor @ C4GT, GSSoC, and Open Source
+- 🚀 Campus Ambassador @GSSoC
+- Presenter – Bosch Global Technologies (DC-DC Converter)
+- Best Participant – MathWorks Workshop, MIT Manipal
 
 ---
 
