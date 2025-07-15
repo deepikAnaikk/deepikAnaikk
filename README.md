@@ -7,7 +7,7 @@ Hi! I'm Deepika Dattatraya Naik 👋
 🤝 Currently contributing to Open Source via GirlScript Summer of Code & Code4GovTech (C4GT) DMP 2025
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/deepika-dattatraya-naik/](https://www.linkedin.com/in/deepika-dattatraya-naik-416809288/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/deepika-dattatraya-naik-416809288/)
 
 
 ## 🛠️ Skills:
