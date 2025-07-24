@@ -9,7 +9,7 @@ Hi! I'm Deepika Dattatraya Naik 👋
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/deepika-dattatraya-naik-416809288/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/deepikAnaikk)
-
+[![GeeksforGeeks](https://img.shields.io/badge/geeksforgeeks-green?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/deepikanxedh )
 
 ## 🛠️ Skills:
 Languages: C, C++, Python, HTML/CSS (Basics), SQL
