@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi! I'm Deepika Dattatraya Naik 👋  
 🎓 Final Year Electrical and Electronics Engineering Student at St. Joseph Engineering College, Mangaluru  
-🎓 FPGA Design Intern @Anmaya Technologies Pvt Ltd.
 ⚡ Passionate about VLSI, Embedded Systems, and Digital Design  
 🔬 Enthusiastic about building real-world projects and solving problems with technology  
 🏆 Finalist - Google Girl Hackathon 2025  
