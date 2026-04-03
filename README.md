@@ -12,25 +12,52 @@ Hi! I'm Deepika Dattatraya Naik 👋
 [![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/deepika_naik_)
 
 ## 🛠️ Skills:
-Languages: C, C++, Python, HTML/CSS (Basics), SQL
-Frameworks/Tools: MATLAB, Git, GitHub, MySQL
-Embedded Systems: PIC, Arduino, Verilog, PLC
-Simulation Tools: MPLAB IDE, KiCad, OrCAD, AutoCAD 
-Interests: Embedded Systems, Digital Electronics, IoT, VLSI Design 
+**Power Electronics & EV Systems:** DC-DC Converters (Buck/Boost), Rectifiers, PWM Control, Motor Control (PMSM, FOC), Basics of MPPT  
+**Languages:** C, C++, Python, SQL, HTML/CSS (Basics)  
+**Tools & Frameworks:** MATLAB/Simulink, LTspice, Git, GitHub, MySQL  
+**Embedded Systems:** PIC, Arduino, Microcontrollers, SPI, UART, I2C  
+**Simulation & Design:** MPLAB IDE, KiCad, OrCAD, AutoCAD  
+
+---
+
+## ⚡ Key Projects (EV & Energy Systems Focus)
+
+- 🔋 **DC-DC Converter Design (EV Applications)**  
+  Designed and simulated a closed-loop converter using MATLAB/Simulink.  
+  Focused on voltage regulation, efficiency, and EV power flow.
+
+- ⚙️ **PMSM Motor Control (FOC + SVPWM)**  
+  Implemented Field Oriented Control for EV motor applications.  
+  Explored torque optimization (MTPA) and flux weakening.
+
+- 📊 **Fault Detection in Electric Motors**  
+  Built a predictive maintenance system using vibration analysis in Simulink.
+
+- 🔌 **Embedded Systems & Communication**  
+  Developed systems using SPI, UART, PWM, ADC with real-time control logic.
+
 ---
 
 ## 🏅 Achievements:
 - 🥇 Finalist @ Google Girl Hackathon 2025  
-- 🚀 Campus Ambassador @GSSoC
-- Presenter – Bosch Global Technologies (DC-DC Converter)
-- Best Participant – MathWorks Workshop, MIT Manipal
+- 🚀 Campus Ambassador @ GSSoC  
+- ⚡ Presenter – Bosch Global Technologies (DC-DC Converter for EV Applications)  
+- 🏆 Best Participant – MathWorks Workshop, MIT Manipal  
+
+---
+
+## 🌱 Interests:
+Power Electronics, Electric Vehicles (EV), Energy Systems, Renewable Integration, Embedded Systems, Digital Electronics  
 
 ---
 
 ## 📢 Let's Collaborate!
-I'm always open to exciting opportunities, collaborations, and hackathons. Let's build something amazing together!
+I’m actively interested in building solutions in **EV power electronics and renewable-integrated charging systems**, including concepts like wind/energy recovery systems.
+
+Open to internships, collaborations, and innovative projects in EV and energy systems 🚀
+
+---
 
 <!---
-deepikAnaikk/deepikAnaikk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+deepikAnaikk/deepikAnaikk is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
