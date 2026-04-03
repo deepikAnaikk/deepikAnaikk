@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! I'm Deepika Dattatraya Naik 👋  
 🎓 Final Year Electrical and Electronics Engineering Student at St. Joseph Engineering College, Mangaluru  
-⚡ Passionate about VLSI, Embedded Systems, and Digital Design  
+⚡ Passionate about EV design, VLSI, Embedded Systems, and Digital Design  
 🔬 Enthusiastic about building real-world projects and solving problems with technology  
 🏆 Finalist - Google Girl Hackathon 2025  
 
