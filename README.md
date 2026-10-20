@@ -2,7 +2,7 @@
 Hi! I'm Deepika Dattatraya Naik 👋  
 🏢 Working as Hardware design engineer
 🎓 Graduated in Electrical and Electronics Engineering from St. Joseph Engineering College, Mangaluru  
-⚡ Passionate about EV design, VLSI, Embedded Systems, and Digital Design  
+⚡ Passionate about PCB design, EV design, VLSI, Embedded Systems, and Digital Design  
 🔬 Enthusiastic about building real-world projects and solving problems with technology  
 🏆 Finalist - Google Girl Hackathon 2025  
 
